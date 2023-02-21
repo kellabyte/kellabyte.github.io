@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Some articles are just so short that we've to make the footer stick
-categories: Miscellaneous
+title: The return of my blog
+categories: Miscellaneous 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+It's been a very long time since I blogged and many years ago imposter syndrome started to hit really hard and I got more afraid to openly write about my thoughts in more detail. In personal life, I lost myself along the way a little bit and in 2023 I decided to start getting back to my roots of learning in the open, having less fear to ask questions and challenging how we build software and distributed systems.
